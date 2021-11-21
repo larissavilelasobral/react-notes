@@ -1,12 +1,12 @@
 import React from "react";
-import FormularioCadastro from "./Components/FormularioCadastro";
-import ListaDeNotas from "./Components/ListaDeNotas";
+import RegistrationForm from "./Components/RegistrationForm/RegistrationForm";
+import NoteList from "./Components/NoteList/NoteList";
 
 const App = () => {
   return (
     <section>
-      <FormularioCadastro />
-      <ListaDeNotas />
+      <RegistrationForm />
+      <NoteList />
     </section >
   );
 }

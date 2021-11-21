@@ -1,6 +1,6 @@
 import React from "react";
 
-export const FormularioCadastro = () => {
+export const RegistrationForm = () => {
   return (
     <>
       <form>
@@ -12,4 +12,4 @@ export const FormularioCadastro = () => {
   );
 }
 
-export default FormularioCadastro;
+export default RegistrationForm;

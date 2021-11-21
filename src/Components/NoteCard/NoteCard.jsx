@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const CardNota = () => {
+export const NoteCard = () => {
   return (
     <section>
       <header>
@@ -11,4 +11,4 @@ export const CardNota = () => {
   );
 }
 
-export default CardNota;
+export default NoteCard;
