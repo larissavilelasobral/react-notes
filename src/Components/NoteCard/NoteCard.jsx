@@ -1,13 +1,18 @@
 import React from 'react'
+import Card from 'react-bootstrap/Card'
+import CapaCard from '../../img/capa-card.jpg'
 
-export const NoteCard = () => {
+export const NoteCard = ({titulo}) => {
   return (
-    <section>
-      <header>
-        <h3>Título</h3>
-      </header>
-      <p>Escreva sua nota</p>
-    </section>
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={CapaCard} />
+      <Card.Body>
+        <Card.Title>{titulo}</Card.Title>
+        <Card.Text>
+          Escreva sua nota..
+        </Card.Text>
+      </Card.Body>
+    </Card>
   );
 }
 

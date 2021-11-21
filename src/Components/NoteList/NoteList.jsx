@@ -7,8 +7,9 @@ const NoteList = () => {
       {Array.of("Trabalho", "Trabalho", "Estudos").map((category, index) => {
         return (
           <li key={index}>
-            <div>{category}</div>
-            <NoteCard />
+            <NoteCard
+            titulo={category} 
+            />
           </li>
         );
       })}
