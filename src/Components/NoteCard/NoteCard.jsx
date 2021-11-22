@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card'
-import CapaCard from '../../img/capa-card.jpg'
+import CapaCard from '../../assets/img/capa-card.jpg'
 
 export const NoteCard = ({titulo}) => {
   return (

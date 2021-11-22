@@ -1,0 +1,10 @@
+.container-li{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 5px;
+}
+
+.card-li{
+  margin: 2px;
+}

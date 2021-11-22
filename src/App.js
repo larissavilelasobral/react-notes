@@ -1,10 +1,11 @@
 import React from "react";
 import RegistrationForm from "./Components/RegistrationForm/RegistrationForm";
 import NoteList from "./Components/NoteList/NoteList";
+import '../src/assets/styles.css'
 
 const App = () => {
   return (
-    <section>
+    <section className="container-section">
       <RegistrationForm />
       <NoteList />
     </section >
