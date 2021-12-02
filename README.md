@@ -1,15 +1,12 @@
 # Formulario de Cadastro
-
 Formulario de cadastro utilizando react bootstrap.
+![alt text](https://i.ibb.co/NrXqfXS/image.png)
 
 ## React Bootstrap
 
 [react-bootstrap](https://react-bootstrap.github.io/getting-started/introduction) bootstrap do react.
 
 ### `npm install react-bootstrap bootstrap@5.1.3`
-
-## Teste de Tela
-![alt text](https://i.ibb.co/NrXqfXS/image.png)
 _____
 
 **Em construção...**
