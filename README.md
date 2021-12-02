@@ -2,7 +2,7 @@
 
 Formulario de cadastro utilizando react bootstrap.
 
-<img src="https://i.ibb.co/NrXqfXS/image.png" width=70% />
+<img src="https://i.ibb.co/NrXqfXS/image.png" width=80% />
 
 ## React Bootstrap
 
