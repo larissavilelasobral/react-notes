@@ -18,11 +18,12 @@ ______
 
 [<img align="left" src="https://i.ibb.co/j6YvGHY/perfil-amarelo.png" width=115><br>](https://github.com/larissavilelasobral)
 
-[<img target="_blank" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=115 style="max-width: 20%"><br>](mailto:larissavilelasobral@gmail.com)
+<a href="mailto:larissavilelasobral@gmail.com" target=_blank alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=larissavilelasobral" /></a>
 
-[<img target="_blank" align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115 style="max-width: 30%"><br>](https://www.linkedin.com/in/larissa-vilela-sobral/)
-
-
+<a href="https://www.linkedin.com/in/larissa-vilela-sobral/" target=_blank alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  
 _____
 
 
