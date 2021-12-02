@@ -1,6 +1,8 @@
 # Formulario de Cadastro
+
 Formulario de cadastro utilizando react bootstrap.
-![alt text](https://i.ibb.co/NrXqfXS/image.png)
+
+![alt text](https://i.ibb.co/NrXqfXS/image.png width=50%)
 
 ## React Bootstrap
 
