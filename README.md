@@ -18,9 +18,9 @@ ______
 
 [<img align="left" src="https://i.ibb.co/j6YvGHY/perfil-amarelo.png" width=115><br>](https://github.com/larissavilelasobral)
 
-[<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=115 style="max-width: 20%"><br>](mailto:larissavilelasobral@gmail.com?subject=Hi)
+[<img target="_blank" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=115 style="max-width: 20%"><br>](mailto:larissavilelasobral@gmail.com)
 
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115 style="max-width: 30%"><br>](https://www.linkedin.com/in/larissa-vilela-sobral/)
+[<img target="_blank" align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115 style="max-width: 30%"><br>](https://www.linkedin.com/in/larissa-vilela-sobral/)
 
 
 _____
