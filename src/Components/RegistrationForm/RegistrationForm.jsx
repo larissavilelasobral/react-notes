@@ -8,9 +8,6 @@ export const RegistrationForm = () => {
   const [title, setTitle] = useState([]);
   const [texto, setTexto] = useState([]);
 
-  console.log(`titulo setado: ${title}`);
-  console.log(`texto setado: ${texto}`);
-
   const handleTitle = (e) => {
     setTitle(e.target.value);
   }
@@ -18,16 +15,11 @@ export const RegistrationForm = () => {
   const handleTexto = (e) => {
     setTexto(e.target.value);
   }
-
-  const createCard = (e) => {
-    e.preventDefault()
-    console.log('uma nova nota foi criada')
-  }
-
+   
   return (
     <>
       <Form className="container-form"
-        onClick={(e) => createCard(e)}
+        
       >
         <Form.Group
           className="mb-3"
